@@ -1,0 +1,40 @@
+body {
+  background-color: #213969;
+  color: white;
+  
+}
+
+#title {
+  text-align: center;
+  
+}
+
+#image {
+  max-width: 10%;
+  display: block;
+  height: auto;
+  margin: auto;
+  border-radius: 50%;
+}
+
+#name {
+  text-align: center;
+  margin-top: 5px;
+  padding: 2px;
+}
+
+.summary {
+  margin-top: 5em;
+}
+
+li {
+  margin: 20px;
+}
+
+.question {
+  margin: 7px;
+}
+
+.response {
+  color: chartreuse;
+}
